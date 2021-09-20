@@ -13,6 +13,7 @@
 		AB6D3F8726F86F940028E770 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB6D3F8526F86F940028E770 /* Main.storyboard */; };
 		AB6D3F8926F86F950028E770 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB6D3F8826F86F950028E770 /* Assets.xcassets */; };
 		AB6D3F8C26F86F950028E770 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB6D3F8A26F86F950028E770 /* LaunchScreen.storyboard */; };
+		AB6D3F9426F8A1B60028E770 /* CounterVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB6D3F9326F8A1B60028E770 /* CounterVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AB6D3F8826F86F950028E770 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AB6D3F8B26F86F950028E770 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AB6D3F8D26F86F950028E770 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AB6D3F9326F8A1B60028E770 /* CounterVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounterVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				AB6D3F8126F86F940028E770 /* SceneDelegate.swift */,
 				AB6D3F8326F86F940028E770 /* ViewController.swift */,
 				AB6D3F8526F86F940028E770 /* Main.storyboard */,
+				AB6D3F9326F8A1B60028E770 /* CounterVC.swift */,
 				AB6D3F8826F86F950028E770 /* Assets.xcassets */,
 				AB6D3F8A26F86F950028E770 /* LaunchScreen.storyboard */,
 				AB6D3F8D26F86F950028E770 /* Info.plist */,
@@ -141,6 +144,7 @@
 				AB6D3F8426F86F940028E770 /* ViewController.swift in Sources */,
 				AB6D3F8026F86F940028E770 /* AppDelegate.swift in Sources */,
 				AB6D3F8226F86F940028E770 /* SceneDelegate.swift in Sources */,
+				AB6D3F9426F8A1B60028E770 /* CounterVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
